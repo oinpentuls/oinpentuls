@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on my little library for some banking transaction.
 - 🌱 I’m currently learning React JS and Node JS
 - 📫 How to reach me: https://t.me/tohir_ahmad
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **oinpentuls/oinpentuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
